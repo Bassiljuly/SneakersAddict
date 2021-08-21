@@ -1,0 +1,336 @@
+# Translation of Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Custom Product Tabs for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-12 16:09:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Custom Product Tabs for WooCommerce - Stable (latest release)\n"
+
+#: admin/class.settings.php:147
+msgid "Save Settings"
+msgstr "Sauvegarder les réglages"
+
+#: admin/class.settings.php:139
+msgid "Use a custom filter for the_content"
+msgstr "utiliser un filtre personnalisé pour \"the_content\""
+
+#: admin/class.premium.php:107
+msgid "Create global tabs, add tabs to products based on categories or tags, add tab content to search results, and more!"
+msgstr "Créez des onglets globaux, ajoutez des onglets aux produits en fonction de catégories ou d’étiquettes, ajoutez des onglets de contenu aux résultats de recherche, et plus encore&nbsp;!"
+
+#: admin/page.yikes-woo-saved-tabs.php:5
+msgid "Custom Product Tabs for WooCommerce | Saved Tabs"
+msgstr "Onglets de produits personnalisés pour Woocommerce | Onglets sauvegardés"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:69
+msgid "This is for your reference only."
+msgstr "C’est pour votre référence seulement."
+
+#: admin/page.yikes-woo-saved-tabs-single.php:66
+#: admin/page.yikes-woo-saved-tabs.php:56
+#: admin/page.yikes-woo-saved-tabs.php:76
+msgid "Tab Name"
+msgstr "Nom de l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:8
+msgid "It looks like something went wrong. Please %1sgo back%2s. and try again"
+msgstr "Quelque chose c’est mal passé. Veuillez %1srevenir au départ%2s et essayer à nouveau."
+
+#: admin/page.support.php:6
+msgid "Custom Product Tabs for WooCommerce | Support"
+msgstr "Onglets de produits personnalisés pour WooCommerce | Support"
+
+#: admin/page.premium.php:86
+msgid "Premium support with a ticket form accessible directly from your dashboard"
+msgstr "Prise en charge du support Premium avec un formulaire de ticket accessible directement à partir de votre tableau de bord."
+
+#: admin/page.premium.php:84
+msgid " Premium Support"
+msgstr "Support Premium"
+
+#: admin/page.premium.php:80
+msgid "Make WordPress' and/or WooCommerce's search aware of Custom Product Tab information"
+msgstr "Faites en sorte que la recherche de WordPress et/ou de WooCommerce prenne en compte les informations de « l’onglet personnalisé de produit »."
+
+#: admin/page.premium.php:79
+msgid "Remove the tab title from tab content site-wide without needing a filter"
+msgstr "Retirer le titre de l’onglet contenu à l’échelle du site sans avoir besoin d’un filtre."
+
+#: admin/page.premium.php:77
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/page.premium.php:73
+msgid "Assign saved tabs to products via the product's default bulk edit screen."
+msgstr "Attribuez des onglets enregistrés aux produits via l’écran de modification par défaut du produit."
+
+#: admin/page.premium.php:71
+msgid "WooCommerce Bulk Edit"
+msgstr "Édition groupée WooCommerce"
+
+#: admin/page.premium.php:66
+msgid "Assign taxonomy terms to tabs or set tabs as global so they apply to all products."
+msgstr "Affectez des termes de taxinomie à des onglets ou des onglets comme globaux afin qu’ils s’appliquent à tous les produits."
+
+#: admin/page.premium.php:62
+msgid "Global Tabs & Taxonomy Tabs"
+msgstr "Onglets globaux et onglets de taxonomie"
+
+#: admin/page.premium.php:56
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>And More!</strong>"
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Et plus !</strong>"
+
+#: admin/page.premium.php:50
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Premium Support</strong> - Get support via our form directly from your dashboard."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Support Premium</strong> - Obtenez de l’aide via notre formulaire directement à partir de votre tableau de bord."
+
+#: admin/page.premium.php:44
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Search</strong> - Make tab content searchable by WordPress' standard search or WooCommerce's search widget."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Recherche</strong> - Rendre l’onglet de contenu consultable par la recherche standard de WordPress ou le widget de recherche de WooCommerce."
+
+#: admin/page.premium.php:38
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>WooCommerce Bulk Edit</strong> - Assign tabs to products via WooCommerce's bulk editor."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Édition groupée WooCommerce</strong> - Assignez des onglets aux produits via l’édition groupée de WooCommerce."
+
+#: admin/page.premium.php:32
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Category/Tag Tabs</strong> - Assign tabs to products by category or tag."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Onglets de catégorie/étiquette</strong> - Attribuer des onglets aux produits par catégorie ou par étiquette."
+
+#: admin/page.premium.php:26
+msgid "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Global Tabs</strong> - Apply saved tabs to all of your products."
+msgstr "<span class=\"dashicons dashicons-thumbs-up\"></span> <strong>Onglets globaux</strong> - Appliquer les onglets enregistrés à tous vos produits."
+
+#: admin/page.premium.php:19
+msgid "Upgrade to %1sCustom Product Tabs Pro%2s for complete control of Tabs and enhanced features."
+msgstr "Mettre à niveau vers %1sCustom Product Tabs PRO%2s pour un contrôle complet des onglets et des fonctionnalités améliorées."
+
+#: admin/page.premium.php:13
+msgid "Upgrade to Pro"
+msgstr "Passez à la version PRO"
+
+#: admin/page.premium.php:5
+msgid "Custom Product Tabs for WooCommerce | Go Pro"
+msgstr "Onglets de produits personnalisés pour Woocommerce | Passer à PRO"
+
+#: admin/class.yikes-woo-saved-tabs.php:502
+#: admin/class.yikes-woo-saved-tabs.php:503
+msgid "Custom Product Tabs"
+msgstr "Onglets de produit personnalisés"
+
+#: admin/class.yikes-woo-saved-tabs.php:288
+msgid "Uh oh. Something went wrong."
+msgstr "Oops quelque chose ne va pas."
+
+#: admin/class.yikes-woo-saved-tabs.php:284
+msgid "Could not find the tab. Please try again."
+msgstr "Impossible de trouver l’onglet. Veuillez réessayer."
+
+#: admin/class.support.php:96
+msgid "Submit a Support Request"
+msgstr "Soumettre une demande de support"
+
+#: admin/class.support.php:89
+msgid "If you need help with free Custom Product Tabs, please post questions to %1sour support forum on the WordPress Plugin Directory%2s. We aim to respond to support requests within a week."
+msgstr "Si vous avez besoin d’aide pour les onglets personnalisés gratuits de produit, postez vos questions sur %1snotre forum de support sur WordPress%2s. Nous essayons de répondre aux demandes de support sous une semaine."
+
+#: admin/class.support.php:84
+msgid "WordPress.org Support Forums"
+msgstr "Forums d’aide sur WordPress.org"
+
+#: admin/class.support.php:75
+msgid "Custom Product Tabs Pro users qualify for premium support. Check out %1sCustom Product Tabs Pro%2s!"
+msgstr "Les utilisateurs Pro de Onglets personnalisés de produit bénéficient d’un support Premium. Commandez %1sOnglets personnalisés de produits Pro%2s !"
+
+#: admin/class.support.php:68
+msgid "Before submitting a support request, please visit our %1sKnowledge Base%2s where we have step-by-step guides and troubleshooting help."
+msgstr "Avant de soumettre une demande d’assistance, veuillez visiter notre %1sBase de connaissances%2s où nous avons des guides pas à pas et l’aide au dépannage."
+
+#: admin/class.support.php:41 admin/class.support.php:42
+msgid "Support"
+msgstr "Support"
+
+#: admin/class.premium.php:109
+msgid "Custom Product Tabs Pro"
+msgstr "Onglets de produit personnalisés Pro"
+
+#: admin/class.premium.php:106
+msgid "Check out Custom Product Tabs Pro!"
+msgstr "Commandez Custom Product Tabs PRO !"
+
+#: admin/class.premium.php:96
+msgid "Tweet"
+msgstr "Tweeter"
+
+#: admin/class.premium.php:92
+msgid "Tweet about us!"
+msgstr "Tweeter à propos de nous !"
+
+#: admin/class.premium.php:80
+msgid "Leave a review!"
+msgstr "Laissez un avis !"
+
+#: admin/class.premium.php:48 admin/class.premium.php:49
+msgid "Go Pro"
+msgstr "Passer à PRO"
+
+#: admin/class.yikes-woo-generate-html.php:285
+msgid "Override Saved Tab"
+msgstr "Écraser l’onglet enregistré"
+
+#: admin/class.yikes-woo-generate-html.php:166
+msgid " Override Saved Tab"
+msgstr " Écraser l’onglet enregistré"
+
+#: admin/class.yikes-woo-tabs.php:62 admin/class.yikes-woo-tabs.php:71
+#: admin/class.yikes-woo-saved-tabs.php:63
+msgid "Sorry! An error has occurred while trying to retrieve the editor. Please refresh the page and try again."
+msgstr "Désolé ! Une erreur s’est produite lors de la tentative de récupération de l’éditeur. Veuillez actualiser la page et réessayer."
+
+#: admin/page.yikes-woo-saved-tabs.php:133
+msgid "There are no saved tabs. Add one!"
+msgstr "Il n’y a pas d’onglets sauvegardés. Ajoutez-en un !"
+
+#: admin/page.yikes-woo-saved-tabs.php:110
+#: admin/page.yikes-woo-saved-tabs.php:122
+msgid "Edit Tab"
+msgstr "Modifier l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs.php:59
+#: admin/page.yikes-woo-saved-tabs.php:79
+msgid "Tab Content Preview"
+msgstr "Aperçu du contenu de l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs.php:49
+#: admin/page.yikes-woo-saved-tabs.php:69
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: admin/page.yikes-woo-saved-tabs.php:41
+msgid "Apply"
+msgstr "Aplliquer"
+
+#: admin/page.yikes-woo-saved-tabs.php:39
+msgid "Delete"
+msgstr "Suppirmer"
+
+#: admin/page.yikes-woo-saved-tabs.php:38
+msgid "Bulk Actions"
+msgstr "Actions groupées"
+
+#: admin/page.yikes-woo-saved-tabs.php:36
+msgid "Select bulk action"
+msgstr "Sélectionner une action groupée"
+
+#: admin/page.yikes-woo-saved-tabs.php:25
+msgid "Create and save tabs you can add to multiple products."
+msgstr "Créez et enregistrez des onglets que vous pouvez ajouter à plusieurs produits."
+
+#: admin/page.yikes-woo-saved-tabs.php:16
+msgid "Tab deleted!"
+msgstr "Onglet supprimé !"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:29
+#: admin/page.yikes-woo-saved-tabs.php:7
+msgid "Add Tab"
+msgstr "Ajouter l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:91
+#: admin/page.yikes-woo-saved-tabs.php:113
+msgid "Delete Tab"
+msgstr "Supprimer l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:87
+msgid "Save Tab"
+msgstr "Enregistrer l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:75
+msgid "Tab Content"
+msgstr "Contenu de l’onglet"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:36
+msgid "Go Back to All Saved Tabs list"
+msgstr "Revenir à la liste de tous les onglets enregistrés"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:46
+msgid "Any updates made here will apply to all products using this tab."
+msgstr "Toutes les mises à jour effectuées ici s’appliqueront à tous les produits utilisant cet onglet."
+
+#: admin/class.yikes-woo-generate-html.php:341
+msgid "Add a Saved Tab"
+msgstr "Ajouter et enregistrer un onglet"
+
+#: admin/class.yikes-woo-generate-html.php:336
+msgid "Add a Tab"
+msgstr "Ajouter un onglet"
+
+#: admin/class.yikes-woo-generate-html.php:164
+#: admin/class.yikes-woo-generate-html.php:284
+msgid "Check this box to override the saved tab"
+msgstr "Cochez cette case pour remplacer l’onglet enregistré"
+
+#: admin/class.yikes-woo-generate-html.php:137
+msgid "For help using Custom Tabs please visit our <a href='https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/' target='_blank'>Knowledge Base</a>"
+msgstr "Pour obtenir de l’aide sur les onglets personnalisés, visitez notre <a href=’https://yikesplugins.com/support/knowledge-base/product/easy-custom-product-tabs-for-woocommerce/’ target=’_blank’>base de connaissances</a>."
+
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+msgid "Custom Tab Title"
+msgstr "Titre personnalisé de l’onglet"
+
+#. Author of the plugin
+msgid "YIKES, Inc."
+msgstr "YIKES, Inc."
+
+#. Description of the plugin
+msgid "Extend WooCommerce to add and manage custom product tabs. Create as many product tabs as needed per product."
+msgstr "Extension pour Woocommerce pour ajouter et gérer des onglets de produits personnalisés. Créez autant d’onglets que nécessaire par produit."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.yikesinc.com"
+msgstr "https://www.yikesinc.com"
+
+#. Plugin Name of the plugin
+msgid "Custom Product Tabs for WooCommerce"
+msgstr "Custom Product Tabs for WooCommerce"
+
+#: admin/class.yikes-woo-generate-html.php:231
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "HTML and text to display."
+msgstr "HTML et texte à afficher."
+
+#: admin/class.yikes-woo-generate-html.php:230
+#: admin/class.yikes-woo-generate-html.php:269
+msgid "Content"
+msgstr "Contenu"
+
+#: admin/page.yikes-woo-saved-tabs-single.php:58
+#: admin/page.yikes-woo-saved-tabs.php:53
+#: admin/page.yikes-woo-saved-tabs.php:73
+#: admin/class.yikes-woo-generate-html.php:71
+#: admin/class.yikes-woo-generate-html.php:215
+msgid "Tab Title"
+msgstr "Titre de l’onglet"
+
+#: admin/class.yikes-woo-generate-html.php:180
+#: admin/class.yikes-woo-generate-html.php:254
+#: admin/class.yikes-woo-generate-html.php:296
+msgid "Remove Tab"
+msgstr "Retirer l’onglet"
+
+#: admin/class.yikes-woo-generate-html.php:139
+msgid "Help Me!"
+msgstr "Aidez-moi!"
+
+#: admin/class.yikes-woo-tabs.php:88
+msgid "Custom Tabs"
+msgstr "Onglets Personnalisés"
+
+#: yikes-inc-easy-custom-woocommerce-product-tabs.php:52
+msgid "Custom Product Tabs for WooCommerce could not be activated because WooCommerce is not installed and active."
+msgstr "YIKES Custom Product Tabs for WooCommerce ne pourrait pas être activée car WooCommerce n’est pas installé et actif."

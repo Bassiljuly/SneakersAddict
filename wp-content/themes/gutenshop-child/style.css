@@ -1,0 +1,21 @@
+/*
+Theme Name: gutenshop-child
+Template: gutenshop
+*/
+
+
+/* on importe le CSS du parent */
+@import url('../gutenshop/style.css');
+
+/* on met le css enfant */
+.lightGrey-bg {
+    background-color: #FFFAFA!important;
+}
+
+/* .grid-container {
+	padding :0px;
+}
+
+.navigation-wrapper {
+	padding :0px;
+} */
